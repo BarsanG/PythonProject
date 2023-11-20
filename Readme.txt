@@ -13,7 +13,7 @@ This simple Python program provides a graphical user interface for selecting an 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/image-multiplication.git
+    git clone https://github.com/BarsanG/PythonProject.git
     ```
 
 2. Open the project in PyCharm:
