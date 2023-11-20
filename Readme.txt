@@ -55,7 +55,7 @@ The Image Multiplication and Download application architecture is a simple GUI-b
 
     User Interface (UI):
         Developed using the Tkinter library.
-        Three buttons: "Select Image," "Send," and "Download Image."
+        Two buttons: "Select Image"  and "Image replication and Download"
         A label to display messages and status updates.
 
     Image Processing:
